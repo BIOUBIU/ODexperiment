@@ -1,6 +1,6 @@
 
 > 在 [https://bioubiu.github.io/odexperiment/](https://bioubiu.github.io/odexperiment/) 打开此页面
-
+# 由于这样那样的问题，在使用github时出现了问题，这里上传了4月29日晚上八点时的版本，后续更新不会上传
 ## 用作扩展
 
 此仓库可以作为 **插件** 添加到 MakeCode 中。
